@@ -1,0 +1,3 @@
+Just a fun scrip that will play a file using the default media player
+on windows.  The script will keep track of what has already been played
+and play one file per time run.
